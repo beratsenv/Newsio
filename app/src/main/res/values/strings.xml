@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">News.io</string>
+
+
+    <string name="title_headlines">Trending</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_search">Search</string>
+    <string name="tab_bookmarks">Bookmarks</string>
+    <string name="tab_settings">Settings</string>
+
+    <string name="label_retry">Retry</string>
+    <string name="label_share">Share</string>
+    <string name="label_preview">Preview</string>
+    <string name="label_copy_link">Copy link</string>
+    <string name="label_bookmark">Bookmark</string>
+    <string name="label_remove_bookmark">Remove from bookmark</string>
+
+
+    <string name="error">Something went wrong!</string>
+    <string name="no_news">News not available at the moment!</string>
+    <string name="no_result">Result no found</string>
+    <string name="no_internet">No internet</string>
+    <string name="news_bookmarked">Article added on bookmark</string>
+    <string name="bookmark_removed">Article removed on bookmark</string>
+    <string name="no_bookmark">No any news!</string>
+    <string name="link_copied">Link copied to clipboard</string>
+    <string name="msg_press_again">Press again to exit</string>
+    <string name="hint_search">Search article</string>
+
+
+    <string name="desc_overlay">overlay</string>
+    <string name="desc_image">image</string>
+    <string name="desc_more">more</string>
+
+
+    <string name="settings_category_general_label">General</string>
+    <string name="settings_category_view_options_label">View options</string>
+
+    <string name="settings_country_usa_value" translatable="false">us</string>
+
+    <string name="settings_max_page_default_value">45</string>
+
+
+    <string name="category_general">General</string>
+    <string name="category_business">Business</string>
+    <string name="category_technology">Technology</string>
+    <string name="category_entertainment">Entertainment</string>
+    <string name="category_sports">Sports</string>
+    <string name="category_science">Science</string>
+    <string name="settings_country_key">uae</string>
+    <string name="setting_page_size_key">page_size</string>
+
+
+    <array name="category_array">
+        <item>@string/category_general</item>
+        <item>@string/category_business</item>
+        <item>@string/category_technology</item>
+        <item>@string/category_entertainment</item>
+        <item>@string/category_sports</item>
+        <item>@string/category_science</item>
+    </array>
+
+</resources>
